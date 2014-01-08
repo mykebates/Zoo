@@ -1,0 +1,3 @@
+[submodule "tom_lib"]
+	path = tom_lib
+	url = git@github.com:trankin/tom_test_lib
